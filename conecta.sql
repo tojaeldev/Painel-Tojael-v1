@@ -42,8 +42,8 @@ INSERT INTO `configs` (`id`, `nome`, `valor`) VALUES
 (12, 'logo', 'https://i.ibb.co/q1LnDVT/logo.png'),
 (13, 'largura', ''),
 (14, 'altura', ''),
-(15, 'link', 'http://davidsdy.xyz'),
-(16, 'titulo', 'Painel Conecta 4G');
+(15, 'link', 'http://tojael-xvpn-painel.onrender.com'),
+(16, 'titulo', 'Tojael XVPN Painel');
 
 -- --------------------------------------------------------
 
